@@ -13,6 +13,10 @@
 - Executer la commande ``bash launch.sh`` pour lancer le projet
 
 ---
+#### Dataset : &nbsp;
+[Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
+---
 #### Credit :
 *12/03/2021* - GPL3 Licence (Open Source)
 
