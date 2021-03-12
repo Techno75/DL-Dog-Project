@@ -17,7 +17,7 @@ const Header = () => {
                             {prop.name}
                         </NavLink>
                     </li>
-                    : prop.externalLink && <li>
+                    : prop.externalLink && <li key={key}>
                         <Link to={prop.path} component={prop.component} />
                     </li>
                 )
